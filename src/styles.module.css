@@ -76,7 +76,7 @@ body {
 
 .card:hover,
 .icon {
-  box-shadow: 0 0 10px red;
+  box-shadow: 0 0 10px #0f0f0f;
 }
 
 .card p {
